@@ -1,8 +1,15 @@
 # Toc H Institute of Science & Technology (TIST) <img src = "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/2779/2020/9/2/Full%20Campus%20View%20of%20Toc%20H%20Institute%20of%20Science%20and%20Technology%20Ernakulam_Campus-View.jpg" height="50px" width = "100px">
 
-Git basic commands
 
-Git setup
+-----Git setup-----
+
+> git config --global user.name "[firstname lastname]"
+-: set a name that is identifiable for credit when review version history
+
+> git config-global user.email "[valid-email]"
+-: set an email address that will be associated with each history marker
+
+-----Git basic commands-----
 
 1. git init
 -: initialize an existing directory as a Git repository
