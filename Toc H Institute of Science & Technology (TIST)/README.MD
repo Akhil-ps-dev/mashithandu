@@ -19,17 +19,17 @@ Git setup
 5. git commit -m "[descriptive message]"
 -: commit your staged content as a new commit snapshot
 
-6. git m [file]
+6. git rm [file]
 -: delete the file from project and stage the removal for commit
 
 7. git log
--: show the commt history for the currently active branch
+-: show the commit history for the currently active branch
 
 8. git push
 -: transmit local branch commits to the remote repository branch
 
 9. git pull
--: fetch and merge any comm from the tracking remote branch
+-: fetch and merge any commit from the tracking remote branch
 
 10. git branch [branch-name]
 -:create a new branch at the current commit
